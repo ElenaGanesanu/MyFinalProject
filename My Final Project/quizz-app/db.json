@@ -1,0 +1,223 @@
+{
+  "questions": [
+    {
+      "title": "question1",
+      "description": "Intrebarea1",
+      "raspuns1": "raspuns1.1",
+      "raspuns2": "raspuns1.2",
+      "raspuns3": "raspuns1.3",
+      "raspuns4": "raspuns1.4",
+      "correct": 1,
+      "id": "1",
+      "category": "Literature"
+    },
+    {
+      "title": "question2",
+      "description": "Intrebarea2",
+      "raspuns1": "raspuns2.1",
+      "raspuns2": "raspuns2.2",
+      "raspuns3": "raspuns2.3",
+      "raspuns4": "raspuns2.4",
+      "correct": 2,
+      "id": "2",
+      "category": "Literature"
+    },
+    {
+      "title": "question3",
+      "description": "Intrebarea3",
+      "raspuns1": "raspuns3.1",
+      "raspuns2": "raspuns3.2",
+      "raspuns3": "raspuns3.3",
+      "raspuns4": "raspuns3.4",
+      "correct": 3,
+      "id": "3",
+      "category": "History"
+    },
+    {
+      "title": "question4",
+      "description": "Intrebarea4",
+      "raspuns1": "raspuns4.1",
+      "raspuns2": "raspuns4.2",
+      "raspuns3": "raspuns4.3",
+      "raspuns4": "raspuns4.4",
+      "correct": 4,
+      "id": "4",
+      "category": "History"
+    },
+    {
+      "title": "question5",
+      "description": "Intrebarea5",
+      "raspuns1": "raspuns5.1",
+      "raspuns2": "raspuns5.2",
+      "raspuns3": "raspuns5.3",
+      "raspuns4": "raspuns5.4",
+      "correct": 1,
+      "id": "5",
+      "category": "Geography"
+    },
+    {
+      "title": "question6",
+      "description": "Intrebarea6",
+      "raspuns1": "raspuns6.1",
+      "raspuns2": "raspuns6.2",
+      "raspuns3": "raspuns6.3",
+      "raspuns4": "raspuns6.4",
+      "correct": 2,
+      "id": "6",
+      "category": "Geography"
+    },
+    {
+      "title": "question7",
+      "description": "Intrebarea7",
+      "raspuns1": "raspuns7.1",
+      "raspuns2": "raspuns7.2",
+      "raspuns3": "raspuns7.3",
+      "raspuns4": "raspuns7.4",
+      "correct": 3,
+      "id": "7",
+      "category": "Math"
+    },
+    {
+      "title": "question8",
+      "description": "Intrebarea8",
+      "raspuns1": "raspuns8.1",
+      "raspuns2": "raspuns8.2",
+      "raspuns3": "raspuns8.3",
+      "raspuns4": "raspuns8.4",
+      "correct": 4,
+      "id": "8",
+      "category": "Math"
+    },
+    {
+      "title": "question9",
+      "description": "Intrebarea9",
+      "raspuns1": "raspuns9.1",
+      "raspuns2": "raspuns9.2",
+      "raspuns3": "raspuns9.3",
+      "raspuns4": "raspuns9.4",
+      "correct": 1,
+      "id": "9",
+      "category": "Physics"
+    },
+    {
+      "title": "question10",
+      "description": "Intrebarea10",
+      "raspuns1": "raspuns10.1",
+      "raspuns2": "raspuns10.2",
+      "raspuns3": "raspuns10.3",
+      "raspuns4": "raspuns10.4",
+      "correct": 2,
+      "id": "10",
+      "category": "Physics"
+    },
+    {
+      "title": "question11",
+      "description": "Intrebarea11",
+      "raspuns1": "raspuns11.1",
+      "raspuns2": "raspuns11.2",
+      "raspuns3": "raspuns11.3",
+      "raspuns4": "raspuns11.4",
+      "correct": 3,
+      "id": "11",
+      "category": "Art"
+    },
+    {
+      "title": "question12",
+      "description": "Intrebarea12",
+      "raspuns1": "raspuns12.1",
+      "raspuns2": "raspuns12.2",
+      "raspuns3": "raspuns12.3",
+      "raspuns4": "raspuns12.4",
+      "correct": 4,
+      "id": "12",
+      "category": "Art"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Literature",
+      "id": "01"
+    },
+    {
+      "name": "History",
+      "id": "02"
+    },
+    {
+      "name": "Geography",
+      "id": "03"
+    },
+    {
+      "name": "Physics",
+      "id": "04"
+    },
+    {
+      "name": "Art",
+      "id": "05"
+    },
+    {
+      "name": "Random",
+      "id": "06"
+    }
+  ],
+  "users": [
+    {
+      "id": "001",
+      "username": "Elena",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "email": "elena@gmail.com"
+    },
+    {
+      "id": "2657",
+      "username": "Gregor",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "email": "blabla@gmail.com"
+    }
+  ],
+  "currentUser": [
+    {
+      "id": "8d20",
+      "username": "Elena",
+      "password": "1234"
+    }
+  ],
+  "scores": [
+    {
+      "id": "0388",
+      "user": "Elena",
+      "score": 2,
+      "category": "History"
+    },
+    {
+      "id": "031d",
+      "user": "Gregor",
+      "score": 0,
+      "category": "History"
+    },
+    {
+      "id": "735f",
+      "user": "Gregor",
+      "score": 1,
+      "category": "Geography"
+    },
+    {
+      "id": "dcdc",
+      "user": "Gregor",
+      "score": 0,
+      "category": "Literature"
+    },
+    {
+      "id": "ebab",
+      "user": "Gregor",
+      "score": 0,
+      "category": "History"
+    },
+    {
+      "id": "fe27",
+      "user": "Gregor",
+      "score": 1,
+      "category": "Literature"
+    }
+  ]
+}

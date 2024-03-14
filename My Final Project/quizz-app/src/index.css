@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background-image: url('https://wallpaperset.com/w/full/d/c/d/125649.jpg');
+  font-family: 'poppins';
+}
